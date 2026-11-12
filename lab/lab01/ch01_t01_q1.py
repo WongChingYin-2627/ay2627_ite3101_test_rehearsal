@@ -3,6 +3,7 @@ def main():
         try:
             num = int(input("Type an integer:"))
             break
+        except
 if __name__ == "__main__":
     # execute only if run as a script
     main()
