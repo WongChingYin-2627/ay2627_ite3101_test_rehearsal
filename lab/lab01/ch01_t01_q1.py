@@ -7,7 +7,7 @@ def main():
             print('Please enter an integer.')
 
     if num % 10 == 0 and num % 3 != 0:
-        print(f'{num} is divis
+        print(f'{num} is divisible by 10
 if __name__ == "__main__":
     # execute only if run as a script
     main()
